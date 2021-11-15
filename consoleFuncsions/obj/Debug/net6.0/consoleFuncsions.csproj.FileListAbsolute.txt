@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\consoleFuncsions\consoleFuncsions\obj\Debug\net6.0\consoleFuncsions.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\consoleFuncsions\consoleFuncsions\obj\Debug\net6.0\consoleFuncsions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\consoleFuncsions\consoleFuncsions\obj\Debug\net6.0\consoleFuncsions.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\consoleFuncsions\consoleFuncsions\obj\Debug\net6.0\consoleFuncsions.AssemblyInfo.cs
+C:\Users\user\source\repos\consoleFuncsions\consoleFuncsions\obj\Debug\net6.0\consoleFuncsions.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\consoleFuncsions\consoleFuncsions\bin\Debug\net6.0\consoleFuncsions.exe
+C:\Users\user\source\repos\consoleFuncsions\consoleFuncsions\bin\Debug\net6.0\consoleFuncsions.deps.json
+C:\Users\user\source\repos\consoleFuncsions\consoleFuncsions\bin\Debug\net6.0\consoleFuncsions.runtimeconfig.json
+C:\Users\user\source\repos\consoleFuncsions\consoleFuncsions\bin\Debug\net6.0\consoleFuncsions.dll
+C:\Users\user\source\repos\consoleFuncsions\consoleFuncsions\bin\Debug\net6.0\ref\consoleFuncsions.dll
+C:\Users\user\source\repos\consoleFuncsions\consoleFuncsions\bin\Debug\net6.0\consoleFuncsions.pdb
+C:\Users\user\source\repos\consoleFuncsions\consoleFuncsions\obj\Debug\net6.0\consoleFuncsions.dll
+C:\Users\user\source\repos\consoleFuncsions\consoleFuncsions\obj\Debug\net6.0\ref\consoleFuncsions.dll
+C:\Users\user\source\repos\consoleFuncsions\consoleFuncsions\obj\Debug\net6.0\consoleFuncsions.pdb
+C:\Users\user\source\repos\consoleFuncsions\consoleFuncsions\obj\Debug\net6.0\consoleFuncsions.genruntimeconfig.cache
